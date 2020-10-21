@@ -1,4 +1,6 @@
+includes_dir: _includes
 use_math: true
 markdown: kramdown
 kramdown:
-    math_engine: nil
+  math_engine: mathjax
+  syntax_highlighter: rouge
