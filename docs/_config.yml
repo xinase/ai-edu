@@ -1,4 +1,4 @@
-theme: jekyll-theme-leap-day
+use_math: true
 markdown: kramdown
 kramdown:
     math_engine: nil
